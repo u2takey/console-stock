@@ -17,6 +17,6 @@ stock cdkj 002185 00981
 stock watch cdkj 002185 00981
 ```
 
-![screen](./screen.png)
+![screen1](./screen1.png)
 
 ![screen2](./screen2.png)
