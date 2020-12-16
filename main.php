@@ -204,7 +204,7 @@ class QTJj extends QT
 class SmartBox
 {
 	private $keyword = "";
-	private $queryUrl = "http://smartbox.gtimg.cn/s3/?&t=all&format=jsonp&q=";
+	private $queryUrl = "https://smartbox.gtimg.cn/s3/?&t=all&format=jsonp&q=";
 	private $results = [];
 
 	function setKeyWord($keyword) {
